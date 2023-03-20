@@ -1,4 +1,4 @@
-package menu.Moneda;
+package menu;
 
 import java.text.DecimalFormat;
 

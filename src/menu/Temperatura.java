@@ -1,9 +1,9 @@
-package menu.Unidades.Temperatura;
+package menu;
 
-public class TasasTemp {
+public class Temperatura {
 	Double TempDestino;
 
-	public TasasTemp(String origen, String destino, double temp) {
+	public Temperatura(String origen, String destino, double temp) {
 
 		if (origen == destino) {
 			TempDestino = temp;
